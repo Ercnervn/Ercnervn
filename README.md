@@ -57,6 +57,7 @@ Industrial Automation · Motion Control · Digital Twin · PLC / Step & Servo Mo
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercnervn&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top langs"/>
+  ![Ercnervn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&theme=holi)
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercnervn&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top langs"/> -->
 </p>
