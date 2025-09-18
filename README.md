@@ -17,9 +17,10 @@ Industrial Automation · Motion Control · Digital Twin · PLC / Step & Servo Mo
 
 ## ⚙️ What I Do
 
-- PLC & motion control systems
-- Digital Twin 
-- Computer Vision projects  
+- PLC & Motion Control Systems
+- Industrial Automation
+- Data Analysis
+- Artificial Intelligence & Machine Learning
 - Communication & IoT — PC/PLC/microcontroller data exchange (Modbus, TCP/IP, RS485, etc.)  
 
 ---
@@ -29,12 +30,19 @@ Industrial Automation · Motion Control · Digital Twin · PLC / Step & Servo Mo
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  <!-- <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/> -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/>
-  <!-- <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> -->
- <!-- <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/> -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino/ESP32"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"/>
+  
+  
 </p>
 
 ---
@@ -42,8 +50,8 @@ Industrial Automation · Motion Control · Digital Twin · PLC / Step & Servo Mo
 ## 📌 Featured Projects
 
 - **Motion Control PLC System** — synchronized stepper & servo motor operations with encoder feedback  
-- **Digital Twin / Simulation** — building predictive models of machine behavior with Python UI & ROMs  
-- **Export & Trade Automation** — templates for invoices/packing lists, HS-code tables, and Incoterms workflows  
+- **Digital Twin / Simulation** — building predictive models of machine behavior with Python UI & ROMs
+- **Wireless Data Transfer for Conveyor Tables** — developed a wireless communication system for conveyor-based tables, enabling reliable data exchange without cabling    
 
 ---
 
@@ -56,8 +64,15 @@ Industrial Automation · Motion Control · Digital Twin · PLC / Step & Servo Mo
 
 ### 📊 GitHub Stats
 
-<p>
-  ![Ercnervn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&theme=holi)
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercnervn&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top langs"/> -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&theme=holi" 
+    height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercnervn&layout=compact&theme=holi" 
+    height="165" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Ercnervn&theme=holi" 
+    height="165" />
 </p>
+
