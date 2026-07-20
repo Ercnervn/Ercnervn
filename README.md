@@ -128,11 +128,6 @@
 ## &nbsp;&nbsp;GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ercnervn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=E6B450&icon_color=E6B450&text_color=9AA1A9&hide=contribs" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercnervn&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E6B450&text_color=9AA1A9" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ercnervn&hide_border=true&background=0D1117&stroke=1B212B&ring=E6B450&fire=F2C879&currStreakLabel=E6B450&sideLabels=9AA1A9&currStreakNum=F4EFE4&sideNums=F4EFE4&dates=6E747C&excludeDaysLabel=6E747C" alt="GitHub streak"/>
 </p>
 
