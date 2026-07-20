@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" fill="none" role="img" aria-label="Ercan Ervan — Industrial Automation Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0D12"/>
+      <stop offset="0.5" stop-color="#0C1016"/>
+      <stop offset="1" stop-color="#0E141B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.55" r="0.55">
+      <stop offset="0" stop-color="#E6B450" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#E6B450" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E6B450" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#F2C879" stop-opacity="1"/>
+      <stop offset="0.8" stop-color="#E6B450" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#E6B450" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="goldV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2C879"/>
+      <stop offset="1" stop-color="#8A6A2F"/>
+    </linearGradient>
+    <style>
+      @keyframes fu   { from { opacity:0; transform: translateY(14px); } to { opacity:1; transform: translateY(0); } }
+      @keyframes dr   { to { stroke-dashoffset: 0; } }
+      @keyframes sp   { to { transform: rotate(360deg); } }
+      @keyframes spr  { to { transform: rotate(-360deg); } }
+      @keyframes puls { 0%,100% { opacity:.45; } 50% { opacity:.85; } }
+      .k    { opacity:0; animation: fu .8s cubic-bezier(.2,.7,.3,1) .15s forwards; }
+      .n    { opacity:0; animation: fu .9s cubic-bezier(.2,.7,.3,1) .32s forwards; }
+      .s    { opacity:0; animation: fu .9s cubic-bezier(.2,.7,.3,1) .55s forwards; }
+      .s2   { opacity:0; animation: fu .9s cubic-bezier(.2,.7,.3,1) .70s forwards; }
+      .bar  { opacity:0; animation: fu .8s ease .10s forwards; }
+      .rule { stroke-dasharray: 420; stroke-dashoffset: 420; animation: dr 1.3s ease-out .75s forwards; }
+      .ring { transform-box: view-box; transform-origin: 1050px 170px; animation: sp 90s linear infinite; }
+      .arc  { transform-box: view-box; transform-origin: 1050px 170px; animation: sp 16s linear infinite; }
+      .rng2 { transform-box: view-box; transform-origin: 1050px 170px; animation: spr 120s linear infinite; }
+      .glw  { animation: puls 6s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow)" class="glw"/>
+
+  <!-- encoder / motion-control motif -->
+  <g fill="none">
+    <circle cx="1050" cy="170" r="150" stroke="#E6B450" stroke-opacity="0.10" stroke-width="1" class="rng2"/>
+    <circle cx="1050" cy="170" r="128" stroke="#E6B450" stroke-opacity="0.16" stroke-width="11" stroke-dasharray="2.5 10.9" class="ring"/>
+    <circle cx="1050" cy="170" r="128" stroke="#F2C879" stroke-opacity="0.55" stroke-width="3" stroke-dasharray="70 734" stroke-linecap="round" class="arc"/>
+    <circle cx="1050" cy="170" r="104" stroke="#E6B450" stroke-opacity="0.10" stroke-width="1" class="rng2"/>
+    <circle cx="1050" cy="170" r="60"  stroke="#E6B450" stroke-opacity="0.12" stroke-width="1"/>
+    <g transform="translate(1050 170) rotate(45)"><rect x="-6" y="-6" width="12" height="12" fill="#E6B450" fill-opacity="0.6"/></g>
+  </g>
+
+  <!-- top / bottom hairlines -->
+  <rect x="0" y="0"   width="1200" height="2" fill="url(#goldFade)" opacity="0.35"/>
+  <rect x="0" y="338" width="1200" height="2" fill="url(#goldFade)" opacity="0.35"/>
+
+  <!-- left accent bar -->
+  <rect x="90" y="90" width="3" height="160" fill="url(#goldV)" class="bar"/>
+
+  <!-- text -->
+  <text class="k"  x="112" y="106" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="6" fill="#E6B450">INDUSTRIAL AUTOMATION ENGINEER</text>
+  <text class="n"  x="109" y="178" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="300" font-size="62" letter-spacing="7" fill="#F4EFE4">ERCAN ERVAN</text>
+  <line class="rule" x1="112" y1="200" x2="532" y2="200" stroke="url(#goldFade)" stroke-width="1.5"/>
+  <text class="s"  x="112" y="236" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" letter-spacing="2.5" fill="#9AA1A9">Motion Control · Digital Twin · Computer Vision · IoT</text>
+  <text class="s2" x="112" y="262" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#6E747C">PLC · Servo/Step Motor Systems · PC ↔ PLC Communication</text>
+</svg>
