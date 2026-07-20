@@ -152,15 +152,30 @@
   <img src="https://raw.githubusercontent.com/Ercnervn/Ercnervn/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
-<sub>ℹ️ Yılan, <code>.github/workflows/snake.yml</code> iş akışı ilk çalıştıktan sonra görünür. · <i>The snake appears after the workflow runs once.</i></sub>
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## &nbsp;&nbsp;İletişim &nbsp;·&nbsp; Get in Touch
 
 <p align="center">
-  <a href="mailto:ercan.ervan@outlook.com"><img src="https://img.shields.io/badge/ercan.ervan@outlook.com-0D1117?style=flat-square&logo=microsoftoutlook&logoColor=E6B450&labelColor=0D1117" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ercan-ervan-182967223"><img src="https://img.shields.io/badge/Ercan%20Ervan-0D1117?style=flat-square&logo=linkedin&logoColor=E6B450&labelColor=0D1117" alt="LinkedIn"/></a>
+  <i>Yeni projeler, iş birlikleri veya otomasyon sohbetleri için ulaşabilirsin.<br/>Feel free to reach out for projects, collaborations or a chat about automation.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:ercan.ervan@outlook.com">
+    <img src="https://img.shields.io/badge/ercan.ervan@outlook.com-E6B450?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1117&labelColor=E6B450" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ercan-ervan-182967223">
+    <img src="https://img.shields.io/badge/LinkedIn-E6B450?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ercnervn">
+    <img src="https://img.shields.io/badge/GitHub-E6B450?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%C4%B0stanbul%2C%20T%C3%BCrkiye-0D1117?style=for-the-badge&logo=googlemaps&logoColor=E6B450&labelColor=0D1117" alt="Location"/>
 </p>
 
 <br/>
