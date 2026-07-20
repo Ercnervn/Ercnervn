@@ -140,10 +140,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ercnervn&hide_border=true&bg_color=0D1117&color=E6B450&line=E6B450&point=F4EFE4&area=true&area_color=E6B450&title_color=E6B450" alt="Activity graph"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ercnervn&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## &nbsp;&nbsp;Katkı Yılanı &nbsp;·&nbsp; Contribution Snake
